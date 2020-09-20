@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**dingus45191/dingus45191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammed Mubashir Hasan. I'm a front-end developer.I also do freelancing.
 
-Here are some ideas to get you started:
+-🔭 I'm currently working on Vue.
+-🌱I'm currently learning Vue and back-end development.
+-👯 I'm the one of the two co-founders of Innovo. We make awesome and professional sites.
+-🤔 I’m looking for help with some paid projects. I'd love a project. If you're looking for someone to make your projects, I'm that person.
+-⚡ I'll soon become a Full-stack developer.
+-📫 How to reach me: Want to talk with me?Want to give me a big project? Shoot me an email at mubashirhasan1@outlook.com
+-😄 Pronouns: He/him
+-⚡ Fun fact: I'm in High-school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+
 -->

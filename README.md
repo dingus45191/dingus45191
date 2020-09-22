@@ -9,7 +9,7 @@ I'm Mohammed Mubashir Hasan. I'm a front-end developer.I also do freelancing.<br
 -⚡ I'll soon become a Full-stack developer.<br>
 -📫 How to reach me: Want to talk with me?Want to give me a  project? Shoot me an email at mubashirhasan716@gmail.com<br>
 -😄 Pronouns: He/him<br>
--⚡ Fun fact: I'm in High-school<br>
+<!--⚡ Fun fact: I'm in High-school<br> -->
 
 
 

@@ -12,6 +12,10 @@ I'm Mohammed Mubashir Hasan. I'm a front-end developer.I also do freelancing.<br
 <!--⚡ Fun fact: I'm in High-school<br> -->
 
 
+⚡Want to know more about me? Visit my <a href="">site</a>
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 
 I'm Mohammed Mubashir Hasan.<br>
 
-Visit my <a href="">site</a> to know more about me.
+I'm a full stack web (specifically MERN) developer. I build fully fledged applications which scale and rock.
 
 
 
